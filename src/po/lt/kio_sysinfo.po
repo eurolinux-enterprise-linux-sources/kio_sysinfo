@@ -1,0 +1,332 @@
+# Lithuanian translations for l package.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the l package.
+# Andrius Štikonas <stikonas@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: l 10n\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-25 06:43+0200\n"
+"PO-Revision-Date: 2008-12-01 21:37+0300\n"
+"Last-Translator: Andrius Štikonas <stikonas@gmail.com>\n"
+"Language-Team: Lithuanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "KSysInfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr ""
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrius Štikonas"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stikonas@gmail.com"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GB"
+msgstr "%1 GB"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MB"
+msgstr "%1 MB"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KB"
+msgstr "%1 KB"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "Tinklas yra <strong>atjungiamas</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>Jungiamasi</strong> prie tinklo"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "Jūs esate <strong>prisijungę</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "Jūs esate <strong>atsijungę</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "Nežinoma tinklo būklė"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "Ieškoma informacijos apie CPU..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "Mano kompiuteris"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr ""
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "Ieškoma informacijos apie diskus..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "Disko informacija"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "OS informacija"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "OS:"
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "Dabartinis naudotojas:"
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "Sistema:"
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE:"
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "Ekrano informacija"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "Tiekėjas:"
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "Modelis:"
+
+#: sysinfo.cpp:208
+msgid "Driver:"
+msgstr "Tvarkyklė:"
+
+#: sysinfo.cpp:213
+#, fuzzy
+#| msgid "Looking for memory information..."
+msgid "Looking for battery and AC information..."
+msgstr "Ieškoma informacija apie atmintį"
+
+#: sysinfo.cpp:216
+#, fuzzy
+#| msgid "Memory Information"
+msgid "Battery Information"
+msgstr "Atminties informacija"
+
+#: sysinfo.cpp:218
+msgid "Battery present:"
+msgstr ""
+
+#: sysinfo.cpp:219
+#, fuzzy
+#| msgid "System:"
+msgctxt "battery state"
+msgid "State:"
+msgstr "Sistema:"
+
+#: sysinfo.cpp:220
+msgid "Charge percent:"
+msgstr ""
+
+#: sysinfo.cpp:221
+msgid "Rechargeable:"
+msgstr ""
+
+#: sysinfo.cpp:222
+msgid "AC plugged:"
+msgstr ""
+
+#: sysinfo.cpp:229
+msgid "Getting OS information...."
+msgstr "Gaunama OS informacija...."
+
+#: sysinfo.cpp:232
+msgid "Common Folders"
+msgstr "Bendri aplankai"
+
+#: sysinfo.cpp:235
+msgid "My Documents"
+msgstr "Mano dokumentai"
+
+#: sysinfo.cpp:236
+msgid "My Home Folder"
+msgstr "Mano namų aplankas"
+
+#: sysinfo.cpp:237
+msgid "Root Folder"
+msgstr "Šakninis aplankas"
+
+#: sysinfo.cpp:238
+msgid "Network Folders"
+msgstr "Tinklo aplankai"
+
+#: sysinfo.cpp:242
+msgid "Looking up network status..."
+msgstr "Tikrinama tinklo būsena"
+
+#: sysinfo.cpp:246
+msgid "Network Status"
+msgstr "Tinklo būsena"
+
+#: sysinfo.cpp:255
+msgid "CPU Information"
+msgstr "CPU informacija"
+
+#: sysinfo.cpp:257
+msgid "Processor (CPU):"
+msgstr "Procesorius (CPU):"
+
+#: sysinfo.cpp:258
+msgid "Speed:"
+msgstr "Greitis:"
+
+#: sysinfo.cpp:259
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: sysinfo.cpp:262
+msgid "Cores:"
+msgstr "Branduoliai:"
+
+#: sysinfo.cpp:266
+msgid "Temperature:"
+msgstr "Temperatūra:"
+
+#: sysinfo.cpp:272
+msgid "Looking for memory information..."
+msgstr "Ieškoma informacija apie atmintį"
+
+#: sysinfo.cpp:274
+msgid "Memory Information"
+msgstr "Atminties informacija"
+
+#: sysinfo.cpp:276
+msgid "Total memory (RAM):"
+msgstr "Viso atminties (RAM):"
+
+#: sysinfo.cpp:277
+msgid "Free memory:"
+msgstr "Laisva atmintis:"
+
+#: sysinfo.cpp:278
+msgid "Used Memory"
+msgstr "Naudojama atmintis"
+
+#: sysinfo.cpp:279
+msgid "Total swap:"
+msgstr "Viso swap:"
+
+#: sysinfo.cpp:280
+msgid "Free swap:"
+msgstr "Laisva swap:"
+
+#: sysinfo.cpp:343
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr ""
+
+#: sysinfo.cpp:376
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:388
+msgid "Device"
+msgstr "Įrenginys"
+
+#: sysinfo.cpp:388
+msgid "Filesystem"
+msgstr "Failų sistema"
+
+#: sysinfo.cpp:389
+msgid "Total space"
+msgstr "Viso vietos"
+
+#: sysinfo.cpp:389
+msgid "Available space"
+msgstr "Prieinama vietos"
+
+#: sysinfo.cpp:395
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr ""
+
+#: sysinfo.cpp:603
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1 (3D palaikymas)"
+
+#: sysinfo.cpp:607
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1 (Nėra 3D palaikymo)"
+
+#: sysinfo.cpp:613
+msgid "Unknown"
+msgstr "Nežinoma"
+
+#: sysinfo.cpp:667
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "Nežinoma"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "yes"
+msgstr ""
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "no"
+msgstr ""
+
+#: sysinfo.cpp:805
+#, kde-format
+msgid "%1%"
+msgstr ""
+
+#: sysinfo.cpp:809
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr ""
+
+#: sysinfo.cpp:812
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr ""
+
+#: sysinfo.cpp:815
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr ""
+
+#: sysinfo.cpp:818
+#, fuzzy
+#| msgid "Unknown"
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "Nežinoma"

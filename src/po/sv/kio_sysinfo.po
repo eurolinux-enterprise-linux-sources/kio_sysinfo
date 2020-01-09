@@ -1,0 +1,327 @@
+# translation of kio_sysinfo.po to Swedish
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Stefan Asserhäll <stefan.asserhall@comhem.se>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_sysinfo\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-25 06:43+0200\n"
+"PO-Revision-Date: 2009-06-18 21:52+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@comhem.se>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "Ksysinfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr "Inbäddningsbar systeminformation"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stefan Asserhäll"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stefan.asserhall@comhem.se"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GB"
+msgstr "%1 GiB"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MB"
+msgstr "%1 MiB"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KB"
+msgstr "%1 KiB"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "Nätverket <strong>stängs av</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>Upprättar</strong> förbindelse med nätverket"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "Du är <strong>uppkopplad</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "Du är <strong>nerkopplad</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "Okänd nätverksstatus"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "Söker efter processorinformation..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "Min dator"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr ""
+"Kataloger, hårddiskar, flyttbara enheter, systeminformation med mera..."
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "Söker efter diskinformation..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "Diskinformation"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "Operativsysteminformation"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "Operativsystem:"
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "Nuvarande användare:"
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "System:"
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE:"
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "Bildskärmsinformation"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "Leverantör:"
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "Modell:"
+
+#: sysinfo.cpp:208
+msgid "Driver:"
+msgstr "Drivrutin:"
+
+#: sysinfo.cpp:213
+msgid "Looking for battery and AC information..."
+msgstr "Söker efter batteri- och vägguttaginformation..."
+
+#: sysinfo.cpp:216
+msgid "Battery Information"
+msgstr "Batteri-information"
+
+#: sysinfo.cpp:218
+msgid "Battery present:"
+msgstr "Batteri installerat:"
+
+#: sysinfo.cpp:219
+msgctxt "battery state"
+msgid "State:"
+msgstr "Tillstånd:"
+
+#: sysinfo.cpp:220
+msgid "Charge percent:"
+msgstr "Laddningsprocent:"
+
+#: sysinfo.cpp:221
+msgid "Rechargeable:"
+msgstr "Laddningsbart:"
+
+#: sysinfo.cpp:222
+msgid "AC plugged:"
+msgstr "Vägguttag inkopplat:"
+
+#: sysinfo.cpp:229
+msgid "Getting OS information...."
+msgstr "Hämtar information om operativsystemet..."
+
+#: sysinfo.cpp:232
+msgid "Common Folders"
+msgstr "Vanliga kataloger"
+
+#: sysinfo.cpp:235
+msgid "My Documents"
+msgstr "Mina dokument"
+
+#: sysinfo.cpp:236
+msgid "My Home Folder"
+msgstr "Min hemkatalog"
+
+#: sysinfo.cpp:237
+msgid "Root Folder"
+msgstr "Rotkatalog"
+
+#: sysinfo.cpp:238
+msgid "Network Folders"
+msgstr "Nätverkskataloger"
+
+#: sysinfo.cpp:242
+msgid "Looking up network status..."
+msgstr "Slår upp nätverksstatus..."
+
+#: sysinfo.cpp:246
+msgid "Network Status"
+msgstr "Nätverksstatus"
+
+#: sysinfo.cpp:255
+msgid "CPU Information"
+msgstr "Processorinformation"
+
+#: sysinfo.cpp:257
+msgid "Processor (CPU):"
+msgstr "Processor (CPU):"
+
+#: sysinfo.cpp:258
+msgid "Speed:"
+msgstr "Hastighet:"
+
+#: sysinfo.cpp:259
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: sysinfo.cpp:262
+msgid "Cores:"
+msgstr "Processorkärnor:"
+
+#: sysinfo.cpp:266
+msgid "Temperature:"
+msgstr "Temperatur:"
+
+#: sysinfo.cpp:272
+msgid "Looking for memory information..."
+msgstr "Söker efter minnesinformation..."
+
+#: sysinfo.cpp:274
+msgid "Memory Information"
+msgstr "Minnesinformation"
+
+#: sysinfo.cpp:276
+msgid "Total memory (RAM):"
+msgstr "Totalt minne (RAM):"
+
+#: sysinfo.cpp:277
+msgid "Free memory:"
+msgstr "Ledigt minne:"
+
+#: sysinfo.cpp:278
+msgid "Used Memory"
+msgstr "Använt minne"
+
+#: sysinfo.cpp:279
+msgid "Total swap:"
+msgstr "Totalt växlingsminne:"
+
+#: sysinfo.cpp:280
+msgid "Free swap:"
+msgstr "Ledigt växlingsminne:"
+
+#: sysinfo.cpp:343
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr "%1 (+ %2 cacheminnen)"
+
+#: sysinfo.cpp:376
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:388
+msgid "Device"
+msgstr "Enhet"
+
+#: sysinfo.cpp:388
+msgid "Filesystem"
+msgstr "Filsystem"
+
+#: sysinfo.cpp:389
+msgid "Total space"
+msgstr "Totalt utrymme"
+
+#: sysinfo.cpp:389
+msgid "Available space"
+msgstr "Tillgängligt utrymme"
+
+#: sysinfo.cpp:395
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr ""
+"Klicka med höger musknapp för ytterligare alternativ (som Montera eller Mata "
+"ut)."
+
+#: sysinfo.cpp:603
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1 (stöd för 3D)"
+
+#: sysinfo.cpp:607
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1 (inget stöd för 3D)"
+
+#: sysinfo.cpp:613
+msgid "Unknown"
+msgstr "Okänd"
+
+#: sysinfo.cpp:667
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "Okänt"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "yes"
+msgstr "ja"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "no"
+msgstr "nej"
+
+#: sysinfo.cpp:805
+#, kde-format
+msgid "%1%"
+msgstr "%1 %"
+
+#: sysinfo.cpp:809
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr "Ingen laddning"
+
+#: sysinfo.cpp:812
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr "Laddar"
+
+#: sysinfo.cpp:815
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr "Urladdar"
+
+#: sysinfo.cpp:818
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "Okänt"

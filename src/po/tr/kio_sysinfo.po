@@ -1,0 +1,328 @@
+# translation of kio_sysinfo.po to Turkish
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009.
+# Osman Tosun <rainman.neu@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_sysinfo\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-25 06:43+0200\n"
+"PO-Revision-Date: 2009-06-21 16:50+0300\n"
+"Last-Translator: Serdar Soytetir <tulliana@gmail.com>\n"
+"Language-Team: Turkish <yerellestirme@kde.org.tr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "KSysInfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr "Gömülebilir Sistem Bilgileri"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Serdar Soytetir"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tulliana@gmail.com"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GB"
+msgstr "%1 GB"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MB"
+msgstr "%1 MB"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KB"
+msgstr "%1 KB"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "<strong>Ağ bağlantısı kesiliyor</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>Ağa bağlanılıyor</strong>"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "<strong>Bağlı</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "<strong>Bağlı değil</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "Bilinmeyen ağ durumu"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "İşlemci Bilgileri Alınıyor..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "Bilgisayarım"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr ""
+"Dizinler, Sabit Diskler, Çıkarılabilir Aygıtlar, Sistem Bilgileri ve Daha "
+"fazlası..."
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "Disk bilgileri alınıyor..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "Disk Bilgileri"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "İşletim Sistemi Bilgileri"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "İşletim Sistemi:"
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "Şimdiki kullanıcı:"
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "Sistem:"
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE:"
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "Ekran Bilgileri"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "Sağlayıcı:"
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "Model:"
+
+#: sysinfo.cpp:208
+msgid "Driver:"
+msgstr "Sürücü:"
+
+#: sysinfo.cpp:213
+msgid "Looking for battery and AC information..."
+msgstr "Pil ve Adaptör bilgileri alınıyor..."
+
+#: sysinfo.cpp:216
+msgid "Battery Information"
+msgstr "Pil Bilgileri"
+
+#: sysinfo.cpp:218
+msgid "Battery present:"
+msgstr "Pil:"
+
+#: sysinfo.cpp:219
+msgctxt "battery state"
+msgid "State:"
+msgstr "Durum:"
+
+#: sysinfo.cpp:220
+msgid "Charge percent:"
+msgstr "Şarj yüzdesi:"
+
+#: sysinfo.cpp:221
+msgid "Rechargeable:"
+msgstr "Yeniden şarj edilebilir:"
+
+#: sysinfo.cpp:222
+msgid "AC plugged:"
+msgstr "AC adaptör takılı:"
+
+#: sysinfo.cpp:229
+msgid "Getting OS information...."
+msgstr "İşletim sistemi bilgileri alınıyor..."
+
+#: sysinfo.cpp:232
+msgid "Common Folders"
+msgstr "Genel Dizinler"
+
+#: sysinfo.cpp:235
+msgid "My Documents"
+msgstr "Belgeler"
+
+#: sysinfo.cpp:236
+msgid "My Home Folder"
+msgstr "Ev Dizini"
+
+#: sysinfo.cpp:237
+msgid "Root Folder"
+msgstr "Kök Dizin"
+
+#: sysinfo.cpp:238
+msgid "Network Folders"
+msgstr "Ağ Dizinleri"
+
+#: sysinfo.cpp:242
+msgid "Looking up network status..."
+msgstr "Ağ durumu bilgileri alınıyor..."
+
+#: sysinfo.cpp:246
+msgid "Network Status"
+msgstr "Ağ Durumu"
+
+#: sysinfo.cpp:255
+msgid "CPU Information"
+msgstr "İşlemci Bilgileri"
+
+#: sysinfo.cpp:257
+msgid "Processor (CPU):"
+msgstr "İşlemci (CPU):"
+
+#: sysinfo.cpp:258
+msgid "Speed:"
+msgstr "Hız:"
+
+#: sysinfo.cpp:259
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1·MHz"
+
+#: sysinfo.cpp:262
+msgid "Cores:"
+msgstr "Çekirdekler:"
+
+#: sysinfo.cpp:266
+msgid "Temperature:"
+msgstr "Sıcaklık:"
+
+#: sysinfo.cpp:272
+msgid "Looking for memory information..."
+msgstr "Bellek bilgileri alınıyor..."
+
+#: sysinfo.cpp:274
+msgid "Memory Information"
+msgstr "Bellek Bilgileri"
+
+#: sysinfo.cpp:276
+msgid "Total memory (RAM):"
+msgstr "Toplam Bellek (RAM):"
+
+#: sysinfo.cpp:277
+msgid "Free memory:"
+msgstr "Boş bellek:"
+
+#: sysinfo.cpp:278
+msgid "Used Memory"
+msgstr "Kullanılan Bellek"
+
+#: sysinfo.cpp:279
+msgid "Total swap:"
+msgstr "Toplam takas alanı:"
+
+#: sysinfo.cpp:280
+msgid "Free swap:"
+msgstr "Boş takas alanı:"
+
+#: sysinfo.cpp:343
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr "%1 (+ %2 Önbellek)"
+
+#: sysinfo.cpp:376
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:388
+msgid "Device"
+msgstr "Aygıt"
+
+#: sysinfo.cpp:388
+msgid "Filesystem"
+msgstr "Dosya Sistemi"
+
+#: sysinfo.cpp:389
+msgid "Total space"
+msgstr "Toplam alan"
+
+#: sysinfo.cpp:389
+msgid "Available space"
+msgstr "Kullanılabilir alan"
+
+#: sysinfo.cpp:395
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr ""
+"Daha fazla seçeneğe ulaşmak için sağ tıklayın (Bağla veya Çıkart gibi.)"
+
+#: sysinfo.cpp:603
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1 (3 Boyut Desteği Var)"
+
+#: sysinfo.cpp:607
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1 (3 Boyut Desteği Yok)"
+
+#: sysinfo.cpp:613
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: sysinfo.cpp:667
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "yes"
+msgstr "evet"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "no"
+msgstr "hayır"
+
+#: sysinfo.cpp:805
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: sysinfo.cpp:809
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr "Şarj Yok"
+
+#: sysinfo.cpp:812
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr "Şarj ediliyor"
+
+#: sysinfo.cpp:815
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr "Şarj tüketiliyor"
+
+#: sysinfo.cpp:818
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "Bilinmeyen"

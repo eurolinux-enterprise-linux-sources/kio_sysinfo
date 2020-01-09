@@ -1,0 +1,329 @@
+# tradução do kio_sysinfo.po para Brazilian Portuguese
+# translation of kio_sysinfo.po to Brazilian Portuguese
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2008, 2009.
+# André Marcelo Alvarenga <andrealvarenga@gmx.net>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_sysinfo\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-25 06:43+0200\n"
+"PO-Revision-Date: 2009-08-19 22:53-0300\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "KSysInfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr "Informações do sistema integradas"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "André Marcelo Alvarenga"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "andrealvarenga@gmx.net"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GB"
+msgstr "%1 GB"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MB"
+msgstr "%1 MB"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KB"
+msgstr "%1 KB"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "A rede está <strong>desligando</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>Estabelecendo</strong> a conexão da rede"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "Você está <strong>on-line</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "Você está <strong>off-line</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "Status da rede desconhecido"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "Procurando por informações da CPU..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "Meu computador"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr ""
+"Pastas, discos rígidos, dispositivos removíveis, informações do sistema e "
+"mais..."
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "Procurando por informações do disco..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "Informações do disco"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "Informações do SO"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "SO:"
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "Usuário atual:"
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "Sistema:"
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE:"
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "Informações da tela"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "Fabricante:"
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "Modelo:"
+
+#: sysinfo.cpp:208
+msgid "Driver:"
+msgstr "Driver:"
+
+#: sysinfo.cpp:213
+msgid "Looking for battery and AC information..."
+msgstr "Procurando por informações da bateria e adaptador CA..."
+
+#: sysinfo.cpp:216
+msgid "Battery Information"
+msgstr "Informação da bateria"
+
+#: sysinfo.cpp:218
+msgid "Battery present:"
+msgstr "Bateria presente:"
+
+#: sysinfo.cpp:219
+msgctxt "battery state"
+msgid "State:"
+msgstr "Estado:"
+
+#: sysinfo.cpp:220
+msgid "Charge percent:"
+msgstr "Porcentagem de carga:"
+
+#: sysinfo.cpp:221
+msgid "Rechargeable:"
+msgstr "Recarregável:"
+
+#: sysinfo.cpp:222
+msgid "AC plugged:"
+msgstr "adaptador CA conectado:"
+
+#: sysinfo.cpp:229
+msgid "Getting OS information...."
+msgstr "Obtendo informações do SO..."
+
+#: sysinfo.cpp:232
+msgid "Common Folders"
+msgstr "Pastas comuns"
+
+#: sysinfo.cpp:235
+msgid "My Documents"
+msgstr "Meus documentos"
+
+#: sysinfo.cpp:236
+msgid "My Home Folder"
+msgstr "Minha pasta inicial"
+
+#: sysinfo.cpp:237
+msgid "Root Folder"
+msgstr "Pasta raiz"
+
+#: sysinfo.cpp:238
+msgid "Network Folders"
+msgstr "Pastas de rede"
+
+#: sysinfo.cpp:242
+msgid "Looking up network status..."
+msgstr "Procurando o status da rede..."
+
+#: sysinfo.cpp:246
+msgid "Network Status"
+msgstr "Status da rede"
+
+#: sysinfo.cpp:255
+msgid "CPU Information"
+msgstr "Informações da CPU"
+
+#: sysinfo.cpp:257
+msgid "Processor (CPU):"
+msgstr "Processador (CPU):"
+
+#: sysinfo.cpp:258
+msgid "Speed:"
+msgstr "Velocidade:"
+
+#: sysinfo.cpp:259
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: sysinfo.cpp:262
+msgid "Cores:"
+msgstr "Núcleos:"
+
+#: sysinfo.cpp:266
+msgid "Temperature:"
+msgstr "Temperatura:"
+
+#: sysinfo.cpp:272
+msgid "Looking for memory information..."
+msgstr "Procurando por informações da memória..."
+
+#: sysinfo.cpp:274
+msgid "Memory Information"
+msgstr "Informações da memória"
+
+#: sysinfo.cpp:276
+msgid "Total memory (RAM):"
+msgstr "Memória total (RAM):"
+
+#: sysinfo.cpp:277
+msgid "Free memory:"
+msgstr "Memória livre:"
+
+#: sysinfo.cpp:278
+msgid "Used Memory"
+msgstr "Memória usada"
+
+#: sysinfo.cpp:279
+msgid "Total swap:"
+msgstr "Swap total:"
+
+#: sysinfo.cpp:280
+msgid "Free swap:"
+msgstr "Swap livre"
+
+#: sysinfo.cpp:343
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr "%1 (+ %2 caches)"
+
+#: sysinfo.cpp:376
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:388
+msgid "Device"
+msgstr "Dispositivo"
+
+#: sysinfo.cpp:388
+msgid "Filesystem"
+msgstr "Sistema de arquivos"
+
+#: sysinfo.cpp:389
+msgid "Total space"
+msgstr "Espaço total"
+
+#: sysinfo.cpp:389
+msgid "Available space"
+msgstr "Espaço disponível"
+
+#: sysinfo.cpp:395
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr ""
+"Pressione o botão direito do mouse para mais opções (como Montar ou Ejetar)"
+
+#: sysinfo.cpp:603
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1 (suporte 3D)"
+
+#: sysinfo.cpp:607
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1 (sem suporte 3D)"
+
+#: sysinfo.cpp:613
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: sysinfo.cpp:667
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "Desconhecida"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "yes"
+msgstr "sim"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "no"
+msgstr "não"
+
+#: sysinfo.cpp:805
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: sysinfo.cpp:809
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr "Sem carga"
+
+#: sysinfo.cpp:812
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr "Carregando"
+
+#: sysinfo.cpp:815
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr "Descarregando"
+
+#: sysinfo.cpp:818
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "Desconhecido"
