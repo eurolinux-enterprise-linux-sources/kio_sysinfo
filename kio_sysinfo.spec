@@ -2,7 +2,7 @@
 
 Name:           kio_sysinfo
 Version:        20090930
-Release:        6%{?dist}
+Release:        8%{?dist}
 Summary:        KIO slave which shows basic system information
 
 Group:          System Environment/Libraries
@@ -60,6 +60,12 @@ rm -rf %{buildroot}
 
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 20090930-8
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 20090930-7
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 20090930-6
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
