@@ -1,0 +1,336 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_sysinfo\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-25 06:43+0200\n"
+"PO-Revision-Date: 2009-09-02 00:54-0600\n"
+"Last-Translator: Laurenţiu Buzdugan <lbuz@rolix.org>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > "
+"0 && n%100 < 20)) ? 1 : 2;\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "KSysInfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr "Informații despre sistem încorporabile"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GB"
+msgstr "%1 Go"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MB"
+msgstr "%1 Mo"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KB"
+msgstr "%1 Ko"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "Rețeaua <strong>se oprește</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>Se stabilește</strong> conexiunea la rețea"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "Sînteți <strong>conectat</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "Sînteți <strong>deconectat</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "Stare necunoscută a rețelei"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "Căutare informații despre procesor..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "Computerul meu"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr ""
+"Dosare, discuri, dispozitive amovibile, informații despre sistem și altele..."
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "Căutare informații despre disc..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "Informații despre disc"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "Informații despre SO"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "SO:"
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "Utilizator curent:"
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "Sistem:"
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE:"
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "Informații despre afișaj"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "Vînzător:"
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "Model:"
+
+#: sysinfo.cpp:208
+msgid "Driver:"
+msgstr "Driver:"
+
+#: sysinfo.cpp:213
+#, fuzzy
+#| msgid "Looking for memory information..."
+msgid "Looking for battery and AC information..."
+msgstr "Căutare informații despre memorie..."
+
+#: sysinfo.cpp:216
+#, fuzzy
+#| msgid "Memory Information"
+msgid "Battery Information"
+msgstr "Informaţii despre memorie"
+
+#: sysinfo.cpp:218
+msgid "Battery present:"
+msgstr ""
+
+#: sysinfo.cpp:219
+#, fuzzy
+#| msgid "System:"
+msgctxt "battery state"
+msgid "State:"
+msgstr "Sistem:"
+
+#: sysinfo.cpp:220
+msgid "Charge percent:"
+msgstr ""
+
+#: sysinfo.cpp:221
+msgid "Rechargeable:"
+msgstr ""
+
+#: sysinfo.cpp:222
+msgid "AC plugged:"
+msgstr ""
+
+#: sysinfo.cpp:229
+msgid "Getting OS information...."
+msgstr "Obținere informații despre SO..."
+
+#: sysinfo.cpp:232
+msgid "Common Folders"
+msgstr "Dosare comune"
+
+#: sysinfo.cpp:235
+msgid "My Documents"
+msgstr "Documentele mele"
+
+#: sysinfo.cpp:236
+msgid "My Home Folder"
+msgstr "Dosarul meu Acasă"
+
+#: sysinfo.cpp:237
+msgid "Root Folder"
+msgstr "Dosar rădăcină"
+
+#: sysinfo.cpp:238
+msgid "Network Folders"
+msgstr "Dosare de rețea"
+
+#: sysinfo.cpp:242
+msgid "Looking up network status..."
+msgstr "Se verifică starea rețelei..."
+
+#: sysinfo.cpp:246
+msgid "Network Status"
+msgstr "Starea rețelei"
+
+#: sysinfo.cpp:255
+msgid "CPU Information"
+msgstr "Informații despre procesor"
+
+#: sysinfo.cpp:257
+msgid "Processor (CPU):"
+msgstr "Procesor (CPU):"
+
+#: sysinfo.cpp:258
+msgid "Speed:"
+msgstr "Viteză:"
+
+#: sysinfo.cpp:259
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: sysinfo.cpp:262
+msgid "Cores:"
+msgstr "Nuclee:"
+
+#: sysinfo.cpp:266
+msgid "Temperature:"
+msgstr "Temperatură:"
+
+#: sysinfo.cpp:272
+msgid "Looking for memory information..."
+msgstr "Căutare informații despre memorie..."
+
+#: sysinfo.cpp:274
+msgid "Memory Information"
+msgstr "Informaţii despre memorie"
+
+#: sysinfo.cpp:276
+msgid "Total memory (RAM):"
+msgstr "Total memorie (RAM):"
+
+#: sysinfo.cpp:277
+msgid "Free memory:"
+msgstr "Memorie liberă:"
+
+#: sysinfo.cpp:278
+msgid "Used Memory"
+msgstr "Memorie utilizată"
+
+#: sysinfo.cpp:279
+msgid "Total swap:"
+msgstr "Total swap:"
+
+#: sysinfo.cpp:280
+msgid "Free swap:"
+msgstr "Swap liber:"
+
+#: sysinfo.cpp:343
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr "%1 (+ %2 Cache-uri)"
+
+#: sysinfo.cpp:376
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:388
+msgid "Device"
+msgstr "Dispozitiv"
+
+#: sysinfo.cpp:388
+msgid "Filesystem"
+msgstr "Sistem de fișiere"
+
+#: sysinfo.cpp:389
+msgid "Total space"
+msgstr "Spațiu total"
+
+#: sysinfo.cpp:389
+msgid "Available space"
+msgstr "Spațiu disponibil"
+
+#: sysinfo.cpp:395
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr ""
+"Apăsați butonul drept al mausului pentru opțiuni suplimentare (cum ar fi "
+"Monate sau Scoatere.)"
+
+#: sysinfo.cpp:603
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1 (Suport 3D)"
+
+#: sysinfo.cpp:607
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1 (Fără suport 3D)"
+
+#: sysinfo.cpp:613
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: sysinfo.cpp:667
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "Necunoscută"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "yes"
+msgstr ""
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "no"
+msgstr ""
+
+#: sysinfo.cpp:805
+#, kde-format
+msgid "%1%"
+msgstr ""
+
+#: sysinfo.cpp:809
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr ""
+
+#: sysinfo.cpp:812
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr ""
+
+#: sysinfo.cpp:815
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr ""
+
+#: sysinfo.cpp:818
+#, fuzzy
+#| msgid "Unknown"
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "Necunoscut"

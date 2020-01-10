@@ -1,0 +1,326 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Vit Pelcak <vit@pelcak.org>, 2009.
+# Lukáš Tinkl <ltinkl@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_sysinfo\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-25 06:43+0200\n"
+"PO-Revision-Date: 2009-03-18 15:33+0100\n"
+"Last-Translator: Lukáš Tinkl <ltinkl@redhat.com>\n"
+"Language-Team: Czech <kde-czech-apps@lists.sf.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "KSysInfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr "Komponenta systémových informací"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Vít Pelčák,Lukáš Tinkl"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "vit@pelcak.org,ltinkl@redhat.com"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GB"
+msgstr "%1 GB"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MB"
+msgstr "%1 MB"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KB"
+msgstr "%1 KB"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "Síť se <strong>vypíná</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>Navazuji</strong> síťové spojení"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "Jste <strong>online</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "Jste <strong>offline</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "Neznámý stav sítě"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "Vyhledávám informace o CPU..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "Můj počítač"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr "Složky, disky, vyměnitelná zařízení, systémové informace a více..."
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "Vyhledávám informace o discích..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "Informace o disku"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "Informace o OS"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "OS:"
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "Aktuální uživatel:"
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "Systém:"
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE:"
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "Informace o obrazovce"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "Prodejce:"
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "Model:"
+
+#: sysinfo.cpp:208
+msgid "Driver:"
+msgstr "Ovladač:"
+
+#: sysinfo.cpp:213
+msgid "Looking for battery and AC information..."
+msgstr "Zjišťuji informace o baterii a napájení..."
+
+#: sysinfo.cpp:216
+msgid "Battery Information"
+msgstr "Informace o baterii"
+
+#: sysinfo.cpp:218
+msgid "Battery present:"
+msgstr "Bateria přítomna:"
+
+#: sysinfo.cpp:219
+msgctxt "battery state"
+msgid "State:"
+msgstr "Stav:"
+
+#: sysinfo.cpp:220
+msgid "Charge percent:"
+msgstr "Procento nabití:"
+
+#: sysinfo.cpp:221
+msgid "Rechargeable:"
+msgstr "Nabitelná:"
+
+#: sysinfo.cpp:222
+msgid "AC plugged:"
+msgstr "Kabel připojen:"
+
+#: sysinfo.cpp:229
+msgid "Getting OS information...."
+msgstr "Získávají se informace o OS..."
+
+#: sysinfo.cpp:232
+msgid "Common Folders"
+msgstr "Běžné složky"
+
+#: sysinfo.cpp:235
+msgid "My Documents"
+msgstr "Moje dokumenty"
+
+#: sysinfo.cpp:236
+msgid "My Home Folder"
+msgstr "Moje domovská složka"
+
+#: sysinfo.cpp:237
+msgid "Root Folder"
+msgstr "Kořenová složka"
+
+#: sysinfo.cpp:238
+msgid "Network Folders"
+msgstr "Síťové složky"
+
+#: sysinfo.cpp:242
+msgid "Looking up network status..."
+msgstr "Zjišťuji stav sítě..."
+
+#: sysinfo.cpp:246
+msgid "Network Status"
+msgstr "Stav sítě"
+
+#: sysinfo.cpp:255
+msgid "CPU Information"
+msgstr "Informace o CPU"
+
+#: sysinfo.cpp:257
+msgid "Processor (CPU):"
+msgstr "Procesor (CPU):"
+
+#: sysinfo.cpp:258
+msgid "Speed:"
+msgstr "Rychlost:"
+
+#: sysinfo.cpp:259
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: sysinfo.cpp:262
+msgid "Cores:"
+msgstr "Jádra:"
+
+#: sysinfo.cpp:266
+msgid "Temperature:"
+msgstr "Teplota:"
+
+#: sysinfo.cpp:272
+msgid "Looking for memory information..."
+msgstr "Zjišťuji informace o paměti..."
+
+#: sysinfo.cpp:274
+msgid "Memory Information"
+msgstr "Informace o paměti"
+
+#: sysinfo.cpp:276
+msgid "Total memory (RAM):"
+msgstr "Celková paměť (RAM):"
+
+#: sysinfo.cpp:277
+msgid "Free memory:"
+msgstr "Volná paměť:"
+
+#: sysinfo.cpp:278
+msgid "Used Memory"
+msgstr "Použitá paměť"
+
+#: sysinfo.cpp:279
+msgid "Total swap:"
+msgstr "Celkový odkládací prostor:"
+
+#: sysinfo.cpp:280
+msgid "Free swap:"
+msgstr "Volný odkládací prostor:"
+
+#: sysinfo.cpp:343
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr "%1 (+ %2 v keši)"
+
+#: sysinfo.cpp:376
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:388
+msgid "Device"
+msgstr "Zařízení"
+
+#: sysinfo.cpp:388
+msgid "Filesystem"
+msgstr "Souborový systém"
+
+#: sysinfo.cpp:389
+msgid "Total space"
+msgstr "Celkový prostor"
+
+#: sysinfo.cpp:389
+msgid "Available space"
+msgstr "Dostupný prostor"
+
+#: sysinfo.cpp:395
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr ""
+"Stisknutím pravého tlačítka myši zobrazíte možnosti jako Připojit nebo "
+"Vysunout."
+
+#: sysinfo.cpp:603
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1 (podpora 3D)"
+
+#: sysinfo.cpp:607
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1 (bez podpory 3D)"
+
+#: sysinfo.cpp:613
+msgid "Unknown"
+msgstr "Neznámo"
+
+#: sysinfo.cpp:667
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "Neznámo"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "yes"
+msgstr "ano"
+
+#: sysinfo.cpp:804 sysinfo.cpp:820 sysinfo.cpp:825
+msgid "no"
+msgstr "ne"
+
+#: sysinfo.cpp:805
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: sysinfo.cpp:809
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr "Nic"
+
+#: sysinfo.cpp:812
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr "Nabíjí se"
+
+#: sysinfo.cpp:815
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr "Vybíjí se"
+
+#: sysinfo.cpp:818
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "Neznámo"
